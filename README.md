@@ -24,16 +24,3 @@ A free, easy-to-customize school schedule web app built using HTML, JavaScript, 
 * Navigate to your repository's **Settings > Pages**.
 * Select `main` branch and root `/` under **Source**.
 * Click **Save**; your site will soon be live at `https://yourusername.github.io/yourrepo/`.
-
-## 📋 License
-
-This project is under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-
-* Share — copy and redistribute in any medium or format.
-* Adapt — remix, transform, and build upon this work for any purpose, even commercially.
-
-**Conditions:**
-
-* **Attribution** — Provide appropriate credit, link to the license, and indicate any changes.
