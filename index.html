@@ -25,7 +25,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -61,10 +61,10 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
     .progress-chsYellow { color: #ffe747; }
   </style>
 </head>
-<body class="bg-chsBG font-sans text-black text-sm sm:text-base min-h-screen flex justify-center sm:items-center items-start p-3">
+<body class="bg-chsBG font-sans text-black text-sm sm:text-base min-h-screen flex justify-center sm:items-center items-start p-2">
 
   <!-- Main Card Container -->
-  <div class="card shadow-xl bg-base-100 border-2 border-chsBlue max-w-xl w-full min-w-[370px] rounded-box overflow-hidden">
+  <div class="card shadow-xl bg-base-100 border-2 border-chsBlue max-w-xl w-full min-w-[370px] overflow-hidden">
 
     <!-- Header -->
     <div class="card-header text-center pb-4">
@@ -111,7 +111,8 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
     </div>
 
     <!-- Schedule Table -->
-    <table class="table table-zebra table-xs sm:table-sm bg-white w-full overflow-hidden rounded-none">
+<div class="bg-white">
+    <table class="table table-zebra table-xs sm:table-sm bg-white w-full overflow-hidden border-chsBlue ">
       <thead>
         <tr>
           <th colspan="3" class="bg-chsBlue text-white text-base border-r border-b py-2 text-center">Lunch 1</th>
@@ -126,7 +127,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
           <th class="bg-chsBlue text-white text-center">End</th>
         </tr>
       </thead>
-      <tbody id="scheduleBody" class="text-xs sm:text-sm text-left overflow-hidden rounded-none"></tbody>
+      <tbody id="scheduleBody" class="text-xs sm:text-sm text-left overflow-hidden"></tbody>
     </table>
 
   </div>
