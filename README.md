@@ -1,10 +1,10 @@
-# 📅 School Schedule App
+# 📅 Schedule App
 
 A free, easy-to-customize school schedule web app built using HTML, JavaScript, TailwindCSS, and DaisyUI. Developed in collaborating with with ChatGPT prompts. Designed for schools, nonprofits, and educational settings that need accessible custom tools without significant financial investment.
 
-🚀 View Live Page - https://school-schedule-app.glitch.me
+🚀 View Live Page - https://ganucheau.com/scheduleapp/
 
-💬 Blog Post - https://words.ganucheau.com
+💬 Blog Post - https://ganucheau.substack.com
 
 
 ## 🛠️ Getting Started
@@ -29,12 +29,6 @@ A free, easy-to-customize school schedule web app built using HTML, JavaScript, 
 * Navigate to your repository's **Settings > Pages**.
 * Select `main` branch and root `/` under **Source**.
 * Click **Save**; your site will soon be live at `https://yourusername.github.io/yourrepo/`.
-
-### Using Glitch (optional)
-
-* Visit [Glitch remix page](https://glitch.com/edit/#!/remix/vibecoding-school-schedule).
-* Click **Remix to Edit** and make real-time edits.
-
 
 ## 📋 License
 
